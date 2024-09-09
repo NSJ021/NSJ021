@@ -22,11 +22,5 @@ Currently, focusing on upskilling myself in a variety of tech-related areas. Pyt
 🔥 Mixing things up with some Django as well.🔥
 
 
-I have recently created my first proper Django Application, which has taken shape as the first of many iterations of my Portfolio. 
-
-## Feel free to check it out:
-
-### https://nj021.pythonanywhere.com/
-
 As someone actively looking to move into a role in tech, please feel free to reach out and connect.
 Any questions hit me up 🤙👍👌
