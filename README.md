@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">Electrical Engineer Turn Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsj021&label=Profile%20views&color=0e75b6&style=flat" alt="nsj021" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nsj021&label=Profile%20views&color=0e75b6&style=flat" alt="nsj021" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsj021" alt="nsj021" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsj021" alt="nsj021" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Python, Django, Godot 4**
 
@@ -13,8 +13,8 @@
 
 - ⚡ Fun fact **I have worked in the Electrical/Maintenance Industry for the last decade**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/njones-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="njones-dev" height="30" width="40" /></a>
 </p>
 
