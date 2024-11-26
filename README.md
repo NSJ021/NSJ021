@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nsj021&label=Profile%20views&color=0e75b6&style=flat" alt="nsj021" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsj021" alt="nsj021" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsj021&theme=onedark" alt="nsj021" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript, Python, Django, Godot 4**
 
@@ -30,8 +31,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsj021&show_icons=true&locale=en&layout=compact" alt="nsj021" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nsj021&show_icons=true&locale=en&layout=compact" alt="nsj021" /></p>
 
-<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=nsj021&show_icons=true&locale=en" alt="nsj021" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nsj021&show_icons=true&locale=en" alt="nsj021" /></p>
 
-<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=nsj021&" alt="nsj021" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nsj021&" alt="nsj021" /></p>
